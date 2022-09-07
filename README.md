@@ -1,10 +1,10 @@
 
-# Sun-Corona-Syn
+# Solar-Corona-Syn
 
 General Toolkit for Modeling Solar Coronas.
 
-[![PyPI version](https://badge.fury.io/py/Sun-Corona-Syn.svg)](https://badge.fury.io/py/Sun-Corona-Syn)
-[![ASCL:1801.012](https://img.shields.io/badge/ascl-1801.012-blue.svg?colorB=262255)](http://ascl.net/1801.012)
+[![PyPI 3](https://badge.fury.io/py/Sun-Corona-Syn.svg)](https://www.pypi.org) 
+
 
 [![Powered by emcee](https://img.shields.io/badge/powered_by-emcee-EB5368.svg?style=flat)](https://emcee.readthedocs.io)
 [![Powered by AstroPy](https://img.shields.io/badge/powered_by-AstroPy-EB5368.svg?style=flat)](http://www.astropy.org)
