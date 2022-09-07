@@ -1,0 +1,5 @@
+global-include src/*.pyx
+global-include src/*.c
+include requirements.txt
+include example_data/*
+recursive-include Sun-Corona-Syn/templates *
