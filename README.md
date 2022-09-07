@@ -3,7 +3,8 @@
 
 General Toolkit for Modeling Solar Coronas.
 
-<<<<<<< HEAD
+HEAD
+
 [![PyPI 3](https://badge.fury.io/py/Sun-Corona-Syn.svg)](https://www.pypi.org) 
 
 [![Powered by emcee](https://img.shields.io/badge/powered_by-emcee-EB5368.svg?style=flat)](https://emcee.readthedocs.io)
