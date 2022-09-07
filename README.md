@@ -3,7 +3,7 @@
 
 General Toolkit for Modeling Solar Coronas.
 
-[![PyPI version](https://badge.fury.io/py/Sun-Corona-Syn.svg)](https://[badge.fury.io/py/Sun-Corona-Syn]([https://pypi.org/](https://pypi.org/)))
+[![PyPI 3](https://badge.fury.io/py/Sun-Corona-Syn.svg)(https://packaging.python.org/en/latest/tutorials/installing-packages/)))
 [![ASCL:1801.012](https://img.shields.io/badge/ascl-1801.012-blue.svg?colorB=262255)](http://ascl.net/1801.012)
 
 [![Powered by emcee](https://img.shields.io/badge/powered_by-emcee-EB5368.svg?style=flat)](https://emcee.readthedocs.io)
